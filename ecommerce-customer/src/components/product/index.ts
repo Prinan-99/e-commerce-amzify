@@ -1,0 +1,2 @@
+// Product component exports
+export {};
